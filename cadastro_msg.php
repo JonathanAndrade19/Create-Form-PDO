@@ -21,7 +21,7 @@ if($cadastro){
 
     // var_dump();exit;
     if($insert_msg_cont->execute()){
-        $_SESSION['msg'] = "<p style='color:green;'>Mensagem enviada com sucesso</p>";
+        $_SESSION['msg'] = "<p>Mensagem enviada com sucesso</p>";
         header("Location: index.php");
     }else{
         $_SESSION['msg'] = '<p style="color:red;"> Mensagem não foi enviada! </p>';
