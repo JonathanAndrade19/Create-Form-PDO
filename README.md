@@ -1,10 +1,10 @@
 # Formulário de Cadastro Com PHP e Bulma
 
 ### Back-End
-*PHP
+* PHP
 ### Front-End
-*CSS
-*BULMA - https://bulma.io/
+* CSS
+* BULMA - https://bulma.io/
 ### Banco de Dados Utilizado 
 * Mysql
 
